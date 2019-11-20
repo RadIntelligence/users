@@ -34,7 +34,7 @@
         "branch-alias": {
             "dev-fblink": "5.x-dev"
         }
-    }
+    },
     "require-dev": {
         "phpunit/phpunit": "^5.0",
         "cakephp/cakephp-codesniffer": "^2.0",
