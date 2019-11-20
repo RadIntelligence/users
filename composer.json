@@ -30,11 +30,6 @@
         "cakephp/cakephp": "^3.4.0",
         "cakedc/auth": "^2.0"
     },
-  "extra": {
-        "branch-alias": {
-            "dev-5.x": "5.x"
-        }
-    },
     "require-dev": {
         "phpunit/phpunit": "^5.0",
         "cakephp/cakephp-codesniffer": "^2.0",
